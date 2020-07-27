@@ -1,3 +1,3 @@
-#linkedin_mining
+# linkedin_mining
 - Using `Python` and `BeautifulSoup` to scrape LinkedIn webpage for job descriptions
-- Then use PySpark to analyze
+- Then use `PySpark` for further analyzing
